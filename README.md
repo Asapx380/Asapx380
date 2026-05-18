@@ -2,7 +2,7 @@
 
 🎓 Cursando Engenharia de Software — Uniasselvi  
 ☁️ Google Cloud Computing Foundations Certificate (em andamento)  
-💻 Estudando Front-End — EBAC  
+💻 Estudando Front-End — DIO  
 🐍 Aprendendo Python  
 
 ---
@@ -18,7 +18,7 @@
 
 ## 📚 Atualmente aprendendo
 - Python (lógica e estruturas de dados)
-- HTML & CSS (projetos práticos na EBAC)
+- HTML & CSS (projetos práticos na DIO)
 - Google Cloud (computação em nuvem)
 
 ---
