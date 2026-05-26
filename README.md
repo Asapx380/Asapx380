@@ -2,7 +2,7 @@
 
 **Software Engineer em formação** | Python • Front-End • Google Cloud
 
-Estudante de Engenharia de Software na Uniasselvi, com foco em computação em nuvem e desenvolvimento de aplicações. Concluí o **Google Cloud Computing Foundations Certificate** em maio de 2026 e estou construindo projetos práticos para demonstrar minhas habilidades.
+Estudante de Engenharia de Software, com foco em computação em nuvem e desenvolvimento de aplicações. Concluí o **Google Cloud Computing Foundations Certificate** em maio de 2026 e estou construindo projetos práticos para demonstrar minhas habilidades.
 
 ---
 
@@ -62,7 +62,7 @@ Anotações detalhadas dos laboratórios do Google Cloud Skills Boost: comandos,
 ## 📚 Atualmente aprendendo
 
 - Aprofundando Python (estruturas de dados e APIs)
-- HTML & CSS avançado (projetos práticos na DIO)
+- HTML & CSS  (projetos práticos na DIO)
 - Google Cloud — próxima meta: Associate Cloud Engineer
 - Pipelines de dados com Apache Beam / Dataflow
 
