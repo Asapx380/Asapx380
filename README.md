@@ -49,18 +49,6 @@ Aqui no GitHub registro minha evolução, compartilho projetos e aplico melhoria
 
 ---
 
-## 🚀 Projeto em Destaque
-
-### [🎟️ Sorteio Kit Natura — IBPM Teresina](https://github.com/Asapx380/sorteio-project)
-
-Sistema web exclusivo de sorteio desenvolvido voluntariamente para o aniversário de 10 anos da minha igreja, sem custo algum para a instituição. Processou pagamentos Pix reais durante o evento.
-
-**Stack:** HTML · CSS · JavaScript · Firebase · Asaas API · Netlify · Make.com
-
-🔗 [sorteio-kit-natura-ibpm.netlify.app](https://sorteio-kit-natura-ibpm.netlify.app/)
-
----
-
 ## 📊 Estatísticas
 
 ![Wesley's GitHub Stats](https://github-readme-stats-tau-rose-22.vercel.app/api?username=Asapx380&show_icons=true&theme=tokyonight&hide_border=true)
