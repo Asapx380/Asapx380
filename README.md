@@ -56,3 +56,4 @@ Trago da minha vivência na área administrativa a capacidade de organização, 
   <img src="https://github-readme-stats-tau-rose-22.vercel.app/api?username=Asapx380&show_icons=true&theme=transparent&hide_border=true&title_color=0077b5&text_color=333333&icon_color=0077b5" width="48%" />
   <img src="https://github-readme-stats-tau-rose-22.vercel.app/api/top-langs/?username=Asapx380&layout=compact&theme=transparent&hide_border=true&title_color=0077b5&text_color=333333" width="48%" />
 </p>
+
