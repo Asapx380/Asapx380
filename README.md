@@ -54,7 +54,7 @@
   <img src="https://streak-stats.demolab.com/?user=Asapx380&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asapx380&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph-drab-rho.vercel.app/graph?username=Asapx380&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
