@@ -10,7 +10,7 @@
 ### Sobre mim
 
 - Estudante de **Engenharia de Software** (Uniasselvi), em transição de carreira: administrativo → desenvolvimento
-- Formação Full Stack em andamento (DevClub) — HTML e CSS concluídos, atualmente em JavaScript/DOM
+- Formação Full Stack em andamento (DevClub) - HTML, CSS, JS, Git/GitHub, Node.js, React, TypeScript
 - Já construí projetos com **Firebase Realtime Database, APIs REST e integração PIX (Asaas)**
 - Buscando minha primeira oportunidade como **desenvolvedor júnior front-end / full-stack**, remoto
 - Contato: **wesleyluther830@gmail.com**
