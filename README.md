@@ -70,7 +70,7 @@
 ### Conecte-se comigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/wesley-luther"><img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
+  <a href="https://www.linkedin.com/in/wesley-luther-dev/"><img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
   <a href="mailto:wesleyluther830@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=F7768E" /></a>
 </p>
 
