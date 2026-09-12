@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer, evoluindo para Full-Stack</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+JavaScript;Construindo+projetos+com+Firebase+%2B+APIs+REST;Rumo+a+React+%2B+TypeScript;Buscando+minha+primeira+vaga+como+dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=React+%7C+TypeScript+%7C+JavaScript;Firebase+%2B+APIs+REST+%2B+Pix;Projetos+no+ar+(Netlify);Buscando+minha+primeira+vaga+como+dev" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,24 +10,37 @@
 ### Sobre mim
 
 - Estudante de **Engenharia de Software** (Uniasselvi), em transição de carreira: administrativo → desenvolvimento
-- Formação Full Stack em andamento (DevClub) - HTML, CSS, JS, Git/GitHub, Node.js, React, TypeScript
-- Já construí projetos com **Firebase Realtime Database, APIs REST e integração PIX (Asaas)**
+- Formação Full Stack em andamento (DevClub) — HTML, CSS, JS, Git/GitHub, Node.js, React, TypeScript
+- Já entreguei projetos com **React, TypeScript, Firebase Realtime Database, APIs REST e integração PIX (Asaas)**
 - Buscando minha primeira oportunidade como **desenvolvedor júnior front-end / full-stack**, remoto
 - Contato: **wesleyluther830@gmail.com**
 
 ---
 
+### Projetos em destaque
+
+| Projeto | Stack | Demo |
+| --- | --- | --- |
+| [pix-raffle-web](https://github.com/Asapx380/pix-raffle-web) | JS + Firebase + Pix | [Live](https://sorteio-kit-natura-ibpm.netlify.app/) |
+| [ai-landing-page-generator](https://github.com/Asapx380/ai-landing-page-generator) (Forja AI) | JS + Groq + Netlify Functions | [Live](https://forjaai.netlify.app/) |
+| [currency-converter](https://github.com/Asapx380/currency-converter) (câmbio64) | React + TypeScript + Vite | [Live](https://cambio64.netlify.app/) |
+| [briaspas-scale](https://github.com/Asapx380/briaspas-scale) | Next.js + TypeScript | Em construção |
+
+---
+
 ### Tech Stack
 
-**Linguagens**
+**Linguagens & libs**
 ![HTML5](https://img.shields.io/badge/-HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=F7768E)
 ![CSS3](https://img.shields.io/badge/-CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=7DCFFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=E0AF68)
-![JSON](https://img.shields.io/badge/-JSON-1a1b27?style=for-the-badge&logo=json&logoColor=9ECE6A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/-React-1a1b27?style=for-the-badge&logo=react&logoColor=7AA2F7)
 
 **Dados & Integrações**
 ![Firebase](https://img.shields.io/badge/-Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=E0AF68)
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-1a1b27?style=for-the-badge&logo=fastapi&logoColor=9ECE6A)
+![Node.js](https://img.shields.io/badge/-Node.js-1a1b27?style=for-the-badge&logo=node.js&logoColor=9ECE6A)
 
 **Ferramentas**
 ![Git](https://img.shields.io/badge/-Git-1a1b27?style=for-the-badge&logo=git&logoColor=F7768E)
@@ -35,11 +48,12 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-1a1b27?style=for-the-badge&logo=visual-studio-code&logoColor=7AA2F7)
 ![Figma](https://img.shields.io/badge/-Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=E0AF68)
 ![Netlify](https://img.shields.io/badge/-Netlify-1a1b27?style=for-the-badge&logo=netlify&logoColor=9ECE6A)
+![Vite](https://img.shields.io/badge/-Vite-1a1b27?style=for-the-badge&logo=vite&logoColor=646CFF)
 
 **Em aprendizado**
-![React](https://img.shields.io/badge/-React-1a1b27?style=for-the-badge&logo=react&logoColor=7AA2F7)
-![TypeScript](https://img.shields.io/badge/-TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/-Node.js-1a1b27?style=for-the-badge&logo=node.js&logoColor=9ECE6A)
+![Next.js](https://img.shields.io/badge/-Next.js-1a1b27?style=for-the-badge&logo=nextdotjs&logoColor=c0caf5)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7AA2F7)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=7DCFFF)
 
 ---
 
