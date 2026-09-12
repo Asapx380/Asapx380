@@ -15,7 +15,7 @@
 
 ### Sobre mim
 
-Estudante de **Engenharia de Software** (Uniasselvi), em transição de carreira do administrativo para o desenvolvimento. Estudo HTML, CSS, JavaScript, React e TypeScript e já coloquei projetos reais no ar — inclusive um produto voluntário com Pix e Firebase.
+Estudante de **Engenharia de Software**, em transição de carreira do administrativo para o desenvolvimento. Estudo HTML, CSS, JavaScript, React e TypeScript e já coloquei projetos reais no ar — inclusive um produto voluntário com Pix e Firebase.
 
 **O que busco:** estágio ou vaga júnior de **front-end** (remoto ou híbrido). Consigo entregar interface, consumir API, versionar no Git e publicar o resultado.
 
