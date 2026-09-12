@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wesley-luther-dev/"><img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
-  <a href="mailto:wesleyluther830@gmail.com"><img src="https://img.shields.io/badge/-E-mail-1a1b27?style=for-the-badge&logo=gmail&logoColor=F7768E" /></a>
+  <a href="mailto:wesleyluther830@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=F7768E" /></a>
   <a href="https://cambio64.netlify.app/"><img src="https://img.shields.io/badge/-Portfólio-1a1b27?style=for-the-badge&logo=netlify&logoColor=9ECE6A" /></a>
 </p>
 
@@ -90,7 +90,7 @@ Aberto a **estágio** e **vaga júnior de front-end**. Se quiser ver código rod
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wesley-luther-dev/"><img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
-  <a href="mailto:wesleyluther830@gmail.com"><img src="https://img.shields.io/badge/-wesleyluther830@gmail.com-1a1b27?style=for-the-badge&logo=gmail&logoColor=F7768E" /></a>
+  <a href="mailto:wesleyluther830@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=F7768E" /></a>
 </p>
 
 <p align="center">
