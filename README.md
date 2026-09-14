@@ -101,3 +101,15 @@ Estou buscando estágio ou vaga júnior de front-end, remota ou híbrida. Meu fo
   Estou aberto a estágio e vaga júnior de front-end.<br />
   <a href="https://www.linkedin.com/in/wesley-luther-dev/">LinkedIn</a> · <a href="mailto:wesleyluther830@gmail.com">wesleyluther830@gmail.com</a>
 </p>
+
+
+---
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asapx380/Asapx380/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asapx380/Asapx380/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/Asapx380/Asapx380/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
