@@ -1,98 +1,103 @@
-<h1 align="center">Oi, eu sou o Wesley</h1>
-<h3 align="center">Desenvolvedor Front-End · buscando estágio ou vaga júnior</h3>
+<p align="center">
+  <a href="https://github.com/Asapx380">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1100&color=58A6FF&center=true&vCenter=true&width=680&lines=Front-end+J%C3%BAnior+%7C+React+%7C+TypeScript;Interfaces+responsivas+com+API%2C+Git+e+deploy;Aberto+a+est%C3%A1gio+e+vaga+j%C3%BAnior" alt="Desenvolvedor Front-end Júnior com foco em React e TypeScript" />
+  </a>
+</p>
+
+<h1 align="center">Wesley Luther Marques</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=React+%7C+TypeScript+%7C+JavaScript+%7C+CSS;Interfaces+responsivas+com+deploy+no+ar;Aberto+a+est%C3%A1gio+e+vaga+j%C3%BAnior+remota" alt="Typing SVG" />
+  <strong>Desenvolvedor Front-end Júnior</strong><br />
+  React · TypeScript · JavaScript · CSS
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/wesley-luther-dev/"><img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
-  <a href="mailto:wesleyluther830@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=F7768E" /></a>
-  <a href="https://cambio64.netlify.app/"><img src="https://img.shields.io/badge/-Portfólio-1a1b27?style=for-the-badge&logo=netlify&logoColor=9ECE6A" /></a>
-</p>
-
----
-
-### Sobre mim
-
-Estudante de **Engenharia de Software**, em transição de carreira do administrativo para o desenvolvimento. Estudo HTML, CSS, JavaScript, React e TypeScript e já coloquei projetos reais no ar — inclusive um produto voluntário com Pix e Firebase.
-
-**O que busco:** estágio ou vaga júnior de **front-end** (remoto ou híbrido). Consigo entregar interface, consumir API, versionar no Git e publicar o resultado.
-
-**Como trabalho:** leio o layout, quebro em componentes, testo o que importa e deixo o README claro para outra pessoa rodar o projeto.
-
----
-
-### Projetos (o que um recrutador pode abrir agora)
-
-| Projeto | O que eu construí | Stack | Demo |
-| --- | --- | --- | --- |
-| [câmbio64](https://github.com/Asapx380/currency-converter) | Conversor de 64 países com gráfico histórico, UI responsiva e testes unitários | React, TypeScript, Vite | [Live](https://cambio64.netlify.app/) |
-| [Forja AI](https://github.com/Asapx380/ai-landing-page-generator) | Gerador de landing page a partir de um briefing, com prévia ao vivo | HTML, CSS, JS, Netlify Functions | [Live](https://forjaai.netlify.app/) |
-| [pix-raffle-web](https://github.com/Asapx380/pix-raffle-web) | Grade de rifa em tempo real, login e cobrança Pix — projeto voluntário para a IBPM | JavaScript, Firebase, Pix | [Live](https://sorteio-kit-natura-ibpm.netlify.app/) |
-| [briaspas-scale](https://github.com/Asapx380/briaspas-scale) | CRM + geração de sites (em construção; estudo de Next.js) | Next.js, TypeScript | — |
-
----
-
-### Stack de front-end
-
-![HTML5](https://img.shields.io/badge/-HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=F7768E)
-![CSS3](https://img.shields.io/badge/-CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=7DCFFF)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=E0AF68)
-![TypeScript](https://img.shields.io/badge/-TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/-React-1a1b27?style=for-the-badge&logo=react&logoColor=7AA2F7)
-![Vite](https://img.shields.io/badge/-Vite-1a1b27?style=for-the-badge&logo=vite&logoColor=646CFF)
-
-**Também uso no dia a dia**
-
-![Git](https://img.shields.io/badge/-Git-1a1b27?style=for-the-badge&logo=git&logoColor=F7768E)
-![GitHub](https://img.shields.io/badge/-GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5)
-![Figma](https://img.shields.io/badge/-Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=E0AF68)
-![Netlify](https://img.shields.io/badge/-Netlify-1a1b27?style=for-the-badge&logo=netlify&logoColor=9ECE6A)
-![Firebase](https://img.shields.io/badge/-Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=E0AF68)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-1a1b27?style=for-the-badge&logo=fastapi&logoColor=9ECE6A)
-
-**Estudando agora**
-
-![Next.js](https://img.shields.io/badge/-Next.js-1a1b27?style=for-the-badge&logo=nextdotjs&logoColor=c0caf5)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=7DCFFF)
-![Node.js](https://img.shields.io/badge/-Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=9ECE6A)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-tau-rose-22.vercel.app/api?username=Asapx380&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-tau-rose-22.vercel.app/api/top-langs/?username=Asapx380&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Linguagens mais usadas" />
-</p>
-<p align="center">
-  <img width="480" src="https://streak-stats.demolab.com/?user=Asapx380&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://www.linkedin.com/in/wesley-luther-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:wesleyluther830@gmail.com"><img src="https://img.shields.io/badge/Contato-24292F?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="https://cambio64.netlify.app/"><img src="https://img.shields.io/badge/Ver_portf%C3%B3lio-238636?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio" /></a>
 </p>
 
 ---
 
-### Contribuições
+## Sobre mim
+
+> Estudante de **Engenharia de Software** em transição para desenvolvimento. Construo interfaces responsivas, integro APIs e publico aplicações que podem ser abertas e avaliadas agora.
+
+Estou buscando estágio ou vaga júnior de front-end, remota ou híbrida. Meu foco atual é criar produtos web claros, úteis e bem documentados com **React, TypeScript e JavaScript**.
+
+<table>
+  <tr>
+    <td width="33%" align="center"><strong>Foco</strong><br />Front-end moderno</td>
+    <td width="33%" align="center"><strong>Base</strong><br />React e TypeScript</td>
+    <td width="33%" align="center"><strong>Prática</strong><br />API, Git e deploy</td>
+  </tr>
+</table>
+
+## Projetos selecionados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · câmbio64</h3>
+      <p>Conversor de moedas com dados de 64 países, gráfico histórico interativo e cache local para manter a experiência disponível quando a API falha.</p>
+      <p><strong>Stack:</strong> React 19, TypeScript, Vite, Vitest e API Frankfurter.</p>
+      <p><a href="https://cambio64.netlify.app/"><strong>Ver demo →</strong></a> · <a href="https://github.com/Asapx380/currency-converter">Ver código</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · Sistema de sorteio Pix</h3>
+      <p>Aplicação voluntária para a IBPM com reserva de números, cobrança Pix, painel administrativo e sincronização de pagamentos em tempo real.</p>
+      <p><strong>Stack:</strong> JavaScript, Firebase Realtime Database, Make, QRCode.js e html2canvas.</p>
+      <p><a href="https://sorteio-kit-natura-ibpm.netlify.app/"><strong>Ver demo →</strong></a> · <a href="https://github.com/Asapx380/pix-raffle-web">Ver código</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · Forja AI</h3>
+      <p>Gerador de landing pages a partir de briefing, com prévia ao vivo e integração com a API da Groq.</p>
+      <p><strong>Stack:</strong> HTML, CSS, JavaScript e Netlify Functions.</p>
+      <p><a href="https://forjaai.netlify.app/"><strong>Ver demo →</strong></a> · <a href="https://github.com/Asapx380/ai-landing-page-generator">Ver código</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Em construção · briaspas-scale</h3>
+      <p>CRM de prospecção, briefing e publicação de sites para negócios locais. Projeto de estudo em evolução.</p>
+      <p><strong>Stack:</strong> Next.js, TypeScript, PostgreSQL e Tailwind CSS.</p>
+      <p><a href="https://github.com/Asapx380/briaspas-scale">Acompanhar desenvolvimento →</a></p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asapx380/Asapx380/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asapx380/Asapx380/output/github-contribution-grid-snake.svg" />
-    <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/Asapx380/Asapx380/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <a href="https://github.com/Asapx380?tab=repositories"><strong>Explorar todos os repositórios →</strong></a>
+</p>
+
+## Stack de front-end
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+</p>
+
+**Estudando agora:** testes de interface com React Testing Library, Node.js, SQL, Next.js e Tailwind CSS.
+
+## Atividade no GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-tau-rose-22.vercel.app/api?username=Asapx380&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Estatísticas do GitHub de Wesley Luther" />
+  <img height="165" src="https://github-readme-stats-tau-rose-22.vercel.app/api/top-langs/?username=Asapx380&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Linguagens mais usadas por Wesley Luther" />
 </p>
 
 ---
 
-### Vamos conversar
-
-Aberto a **estágio** e **vaga júnior de front-end**. Se quiser ver código rodando, comece pelo [câmbio64](https://cambio64.netlify.app/).
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/wesley-luther-dev/"><img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
-  <a href="mailto:wesleyluther830@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=F7768E" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asapx380&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
+  <strong>Vamos conversar?</strong><br />
+  Estou aberto a estágio e vaga júnior de front-end.<br />
+  <a href="https://www.linkedin.com/in/wesley-luther-dev/">LinkedIn</a> · <a href="mailto:wesleyluther830@gmail.com">wesleyluther830@gmail.com</a>
 </p>
