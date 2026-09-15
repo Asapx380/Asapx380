@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Wesley Luther Marques</h1>
+<h1 align="center">Wesley Luther Marques de Abreu</h1>
 
 <p align="center">
   <strong>Desenvolvedor Front-end Júnior</strong><br />
