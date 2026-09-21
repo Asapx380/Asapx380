@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="292" viewBox="0 0 880 292" role="img" aria-labelledby="title desc">
+  <title id="title">Wesley Luther</title>
+  <desc id="desc">Front-end. React, TypeScript e CSS. Engenharia de Software. Aberto a estágio.</desc>
+  <defs>
+    <style>
+      .bar { transform-box: fill-box; transform-origin: 50% 0%; animation: grow 1.05s cubic-bezier(.22,1,.36,1) both; }
+      .fade { animation: fade .85s ease .12s both; }
+      .grid { animation: fade 1.1s ease .28s both; }
+      @keyframes grow { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+      @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) {
+        .bar, .fade, .grid { animation: none; }
+      }
+    </style>
+  </defs>
+  <rect width="880" height="292" fill="#1A1612"/>
+  <rect class="bar" x="0" y="0" width="7" height="292" fill="#E8A15A"/>
+  <g class="fade" fill="none">
+    <text x="36" y="38" fill="#E8A15A" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="3.6">FRONT-END</text>
+    <text x="844" y="38" text-anchor="end" fill="#C9B8A6" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="3.6">BRASIL</text>
+    <text x="36" y="128" fill="#F4EFE6" font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, serif" font-size="72" font-weight="700">Wesley</text>
+    <text x="36" y="198" fill="#E8A15A" font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, serif" font-size="72" font-weight="700">Luther</text>
+    <rect x="36" y="218" width="168" height="2" fill="#E8A15A"/>
+    <text x="36" y="248" fill="#F4EFE6" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="15">React · TypeScript · CSS</text>
+    <text x="36" y="272" fill="#C9B8A6" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Engenharia de Software · aberto a estágio</text>
+  </g>
+  <g class="grid" fill="#E8A15A">
+    <rect x="628" y="86" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="648" y="86" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="668" y="86" width="12" height="12" rx="2" opacity=".26"/>
+    <rect x="688" y="86" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="708" y="86" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="728" y="86" width="12" height="12" rx="2" opacity=".42"/>
+    <rect x="748" y="86" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="768" y="86" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="788" y="86" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="808" y="86" width="12" height="12" rx="2" opacity=".62"/>
+    <rect x="828" y="86" width="12" height="12" rx="2" opacity=".26"/>
+
+    <rect x="628" y="106" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="648" y="106" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="668" y="106" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="688" y="106" width="12" height="12" rx="2" opacity=".42"/>
+    <rect x="708" y="106" width="12" height="12" rx="2" opacity=".26"/>
+    <rect x="728" y="106" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="748" y="106" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="768" y="106" width="12" height="12" rx="2" opacity=".78"/>
+    <rect x="788" y="106" width="12" height="12" rx="2" opacity=".42"/>
+    <rect x="808" y="106" width="12" height="12" rx="2" opacity=".26"/>
+    <rect x="828" y="106" width="12" height="12" rx="2" opacity=".14"/>
+
+    <rect x="628" y="126" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="648" y="126" width="12" height="12" rx="2" opacity=".26"/>
+    <rect x="668" y="126" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="688" y="126" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="708" y="126" width="12" height="12" rx="2" opacity=".62"/>
+    <rect x="728" y="126" width="12" height="12" rx="2" opacity=".42"/>
+    <rect x="748" y="126" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="768" y="126" width="12" height="12" rx="2" opacity=".26"/>
+    <rect x="788" y="126" width="12" height="12" rx="2" opacity="1"/>
+    <rect x="808" y="126" width="12" height="12" rx="2" opacity=".78"/>
+    <rect x="828" y="126" width="12" height="12" rx="2" opacity=".42"/>
+
+    <rect x="628" y="146" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="648" y="146" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="668" y="146" width="12" height="12" rx="2" opacity=".42"/>
+    <rect x="688" y="146" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="708" y="146" width="12" height="12" rx="2" opacity=".26"/>
+    <rect x="728" y="146" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="748" y="146" width="12" height="12" rx="2" opacity=".62"/>
+    <rect x="768" y="146" width="12" height="12" rx="2" opacity=".42"/>
+    <rect x="788" y="146" width="12" height="12" rx="2" opacity=".78"/>
+    <rect x="808" y="146" width="12" height="12" rx="2" opacity="1"/>
+    <rect x="828" y="146" width="12" height="12" rx="2" opacity=".62"/>
+
+    <rect x="628" y="166" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="648" y="166" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="668" y="166" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="688" y="166" width="12" height="12" rx="2" opacity=".26"/>
+    <rect x="708" y="166" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="728" y="166" width="12" height="12" rx="2" opacity=".78"/>
+    <rect x="748" y="166" width="12" height="12" rx="2" opacity=".26"/>
+    <rect x="768" y="166" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="788" y="166" width="12" height="12" rx="2" opacity=".42"/>
+    <rect x="808" y="166" width="12" height="12" rx="2" opacity=".62"/>
+    <rect x="828" y="166" width="12" height="12" rx="2" opacity=".26"/>
+
+    <rect x="628" y="186" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="648" y="186" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="668" y="186" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="688" y="186" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="708" y="186" width="12" height="12" rx="2" opacity=".42"/>
+    <rect x="728" y="186" width="12" height="12" rx="2" opacity=".26"/>
+    <rect x="748" y="186" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="768" y="186" width="12" height="12" rx="2" opacity=".62"/>
+    <rect x="788" y="186" width="12" height="12" rx="2" opacity=".26"/>
+    <rect x="808" y="186" width="12" height="12" rx="2" opacity=".42"/>
+    <rect x="828" y="186" width="12" height="12" rx="2" opacity=".14"/>
+
+    <rect x="628" y="206" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="648" y="206" width="12" height="12" rx="2" opacity=".26"/>
+    <rect x="668" y="206" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="688" y="206" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="708" y="206" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="728" y="206" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="748" y="206" width="12" height="12" rx="2" opacity=".26"/>
+    <rect x="768" y="206" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="788" y="206" width="12" height="12" rx="2" opacity=".14"/>
+    <rect x="808" y="206" width="12" height="12" rx="2" opacity=".26"/>
+    <rect x="828" y="206" width="12" height="12" rx="2" opacity=".14"/>
+  </g>
+</svg>
