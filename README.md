@@ -32,28 +32,19 @@ Construo interfaces com hierarquia, tipo e cor — React, TypeScript e CSS — e
 
 <img src="assets/sec-trabalho.svg" alt="Trabalho" width="880" />
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>câmbio64</strong><br />
-      Conversor com 64 moedas, gráfico histórico e cache local quando a API falha.<br />
-      React 19, TypeScript, Vite.<br />
-      <a href="https://cambio64.netlify.app/">Demo</a> · <a href="https://github.com/Asapx380/currency-converter">Código</a>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Sorteio Pix IBPM</strong><br />
-      Rifa voluntária: reserva de números, Pix, painel e sincronização ao vivo.<br />
-      JavaScript, Firebase.<br />
-      <a href="https://sorteio-kit-natura-ibpm.netlify.app/">Demo</a> · <a href="https://github.com/Asapx380/pix-raffle-web">Código</a>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Forja AI</strong><br />
-      Rascunho de landing a partir de briefing, com prévia no navegador.<br />
-      HTML, CSS, JavaScript.<br />
-      <a href="https://forjaai.netlify.app/">Demo</a> · <a href="https://github.com/Asapx380/ai-landing-page-generator">Código</a>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/trabalho-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/trabalho-light.svg" />
+  <img src="assets/trabalho-light.svg" alt="Três trabalhos: câmbio64, Sorteio Pix IBPM e Forja AI." width="880" />
+</picture>
+
+<p align="center">
+  <a href="https://cambio64.netlify.app/">Demo câmbio64</a> · <a href="https://github.com/Asapx380/currency-converter">Código</a>
+  &nbsp;·&nbsp;
+  <a href="https://sorteio-kit-natura-ibpm.netlify.app/">Demo Sorteio Pix</a> · <a href="https://github.com/Asapx380/pix-raffle-web">Código</a>
+  &nbsp;·&nbsp;
+  <a href="https://forjaai.netlify.app/">Demo Forja AI</a> · <a href="https://github.com/Asapx380/ai-landing-page-generator">Código</a>
+</p>
 
 <img src="assets/sec-trilha.svg" alt="Trilha" width="880" />
 

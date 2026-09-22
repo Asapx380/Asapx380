@@ -14,6 +14,9 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Gerar animações da cobrinha
         uses: Platane/snk/svg-only@v3
         with:
@@ -21,6 +24,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%23C45C26&color_dots=%23EDE6DA,%23E8C4A0,%23D4783A,%23C45C26,%238C3A1A
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23E8A15A&color_dots=%231A1612,%233D2A1F,%238C4A32,%23C45C26,%23E8A15A
+
+      - name: Dar pulso à grade
+        run: python3 scripts/breathe-snake.py dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
 
       - name: Publicar animações
         uses: crazy-max/ghaction-github-pages@v4
