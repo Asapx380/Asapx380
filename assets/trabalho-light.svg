@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="268" viewBox="0 0 880 268" role="img">
+  <title>Trabalho selecionado</title>
+  <desc>câmbio64, Sorteio Pix IBPM e Forja AI.</desc>
+  <defs>
+    <style>
+      .rise { animation: rise .7s cubic-bezier(.22,1,.36,1) both; }
+      .rise2 { animation: rise .7s cubic-bezier(.22,1,.36,1) .08s both; }
+      .rise3 { animation: rise .7s cubic-bezier(.22,1,.36,1) .16s both; }
+      @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+      @media (prefers-reduced-motion: reduce) { .rise, .rise2, .rise3 { animation: none; } }
+    </style>
+  </defs>
+  <rect width="880" height="268" fill="#F4EFE6"/>
+  <rect x="0" y="0" width="7" height="268" fill="#C45C26"/>
+  <line x1="316" y1="28" x2="316" y2="240" stroke="#C45C26" stroke-opacity="0.28" stroke-width="1"/>
+  <line x1="608" y1="28" x2="608" y2="240" stroke="#C45C26" stroke-opacity="0.28" stroke-width="1"/>
+  <g class="rise">
+    <rect x="36" y="28" width="14" height="3" fill="#C45C26"/>
+    <text x="36" y="86" fill="#C45C26" fill-opacity="0.18" font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, serif" font-size="72" font-weight="700">01</text>
+    <text x="36" y="78" fill="#C45C26" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="3.2">01</text>
+    <text x="36" y="118" fill="#1A1612" font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, serif" font-size="26" font-weight="700">câmbio64</text>
+    <text x="36" y="152" fill="#1A1612" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Conversor com 64 moedas,</text>
+    <text x="36" y="170" fill="#1A1612" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">gráfico histórico e cache</text>
+    <text x="36" y="188" fill="#1A1612" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">local quando a API falha.</text>
+    <text x="36" y="240" fill="#6B5E52" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12">React 19 · TypeScript · Vite</text>
+  <polyline fill="none" stroke="#C45C26" stroke-width="1.6" points="252,58 260,51 268,54 278,44 288,48"/>
+  <circle cx="288" cy="48" r="2.2" fill="#C45C26"/>
+  </g>
+  <g class="rise2">
+    <rect x="328" y="28" width="14" height="3" fill="#C45C26"/>
+    <text x="328" y="86" fill="#C45C26" fill-opacity="0.18" font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, serif" font-size="72" font-weight="700">02</text>
+    <text x="328" y="78" fill="#C45C26" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="3.2">02</text>
+    <text x="328" y="118" fill="#1A1612" font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, serif" font-size="26" font-weight="700">Sorteio Pix</text>
+    <text x="328" y="140" fill="#6B5E52" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" letter-spacing="1.4">IBPM</text>
+    <text x="328" y="168" fill="#1A1612" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Rifa voluntária: reserva</text>
+    <text x="328" y="186" fill="#1A1612" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">de números, Pix, painel e</text>
+    <text x="328" y="204" fill="#1A1612" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">sincronização ao vivo.</text>
+    <text x="328" y="240" fill="#6B5E52" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12">JavaScript · Firebase</text>
+  <rect x="544" y="40" width="40" height="22" rx="3" fill="none" stroke="#C45C26" stroke-width="1.4"/>
+  <line x1="556" y1="40" x2="556" y2="62" stroke="#C45C26" stroke-width="1.2"/>
+  <circle cx="556" cy="40" r="2.4" fill="#F4EFE6" stroke="#C45C26" stroke-width="1.2"/>
+  <circle cx="556" cy="62" r="2.4" fill="#F4EFE6" stroke="#C45C26" stroke-width="1.2"/>
+  </g>
+  <g class="rise3">
+    <rect x="620" y="28" width="14" height="3" fill="#C45C26"/>
+    <text x="620" y="86" fill="#C45C26" fill-opacity="0.18" font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, serif" font-size="72" font-weight="700">03</text>
+    <text x="620" y="78" fill="#C45C26" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="3.2">03</text>
+    <text x="620" y="118" fill="#1A1612" font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, serif" font-size="26" font-weight="700">Forja AI</text>
+    <text x="620" y="152" fill="#1A1612" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Rascunho de landing a</text>
+    <text x="620" y="170" fill="#1A1612" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">partir de briefing, com</text>
+    <text x="620" y="188" fill="#1A1612" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">prévia no navegador.</text>
+    <text x="620" y="240" fill="#6B5E52" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12">HTML · CSS · JavaScript</text>
+  <rect x="836" y="40" width="38" height="8" rx="1" fill="#C45C26" opacity="0.9"/>
+  <rect x="836" y="51" width="22" height="18" rx="1" fill="none" stroke="#C45C26" stroke-width="1.3"/>
+  <rect x="852" y="51" width="22" height="18" rx="1" fill="#C45C26" opacity="0.35"/>
+  </g>
+</svg>
