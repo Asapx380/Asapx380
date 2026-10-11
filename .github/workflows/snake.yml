@@ -13,6 +13,10 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    concurrency:
+      group: contribution-animation
+      cancel-in-progress: true
     steps:
       - name: Checkout
         uses: actions/checkout@v4
