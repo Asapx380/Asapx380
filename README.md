@@ -46,6 +46,20 @@ Construo interfaces com hierarquia, tipo e cor — React, TypeScript e CSS — e
   <a href="https://forjaai.netlify.app/">Demo Forja AI</a> · <a href="https://github.com/Asapx380/ai-landing-page-generator">Código</a>
 </p>
 
+## Catálogo de projetos
+
+| Projeto | Foco | Tecnologias |
+| --- | --- | --- |
+| [Briaspas Scale](https://github.com/Asapx380/briaspas-scale) | CRM e prospecção para negócios locais | Next.js, TypeScript, Supabase |
+| [câmbio64](https://github.com/Asapx380/currency-converter) | Conversão de moedas e histórico de taxas | React, TypeScript, Vite |
+| [Forja AI](https://github.com/Asapx380/ai-landing-page-generator) | Rascunhos de landing pages com IA | JavaScript, Netlify Functions |
+| [Sorteio Pix IBPM](https://github.com/Asapx380/pix-raffle-web) | Rifa beneficente e integrações | JavaScript, Firebase |
+| [Mapa de estudos](https://github.com/Asapx380/mapa-estudos-web-9f4c2a) | Consulta de conceitos de desenvolvimento web | HTML, CSS, JavaScript |
+| [Gabriela Ramos Odontologia](https://github.com/Asapx380/stitch_dental_clinic_design_system) | Landing page odontológica | HTML, Tailwind CSS, JavaScript |
+| [Responsive Web Playground](https://github.com/Asapx380/responsive-web-playground) | Prática de layout responsivo | HTML, CSS |
+
+Os READMEs de cada projeto descrevem a execução local e as validações disponíveis.
+
 <img src="assets/sec-trilha.svg" alt="Trilha" width="880" />
 
 Contribuições no GitHub — a cobrinha percorre a grade.
